@@ -1,4 +1,4 @@
-# Generic Item API
+# TUGAS INDIVIDU 2 PEMROGRAMAN WEB LANJUTAN
 
 API sederhana menggunakan **FastAPI** dan **SQLAlchemy** dengan database **SQLite**.  
 Dibuat untuk memenuhi tugas Pemrograman Web Lanjutan.
@@ -101,4 +101,4 @@ http://127.0.0.1:8000/docs
 
 ## Author
 
-**Nama** — Tugas 2 Pemrograman Web Lanjutan
+**Diani** — Tugas 2 Pemrograman Web Lanjutan
